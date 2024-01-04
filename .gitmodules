@@ -1,0 +1,6 @@
+[submodule "word-counter"]
+	path = word-counter
+	url = https://github.com/Anu-Shalini-12/word-counter
+[submodule "BasicQuizGame"]
+	path = BasicQuizGame
+	url = https://github.com/Anu-Shalini-12/BasicQuizGame
